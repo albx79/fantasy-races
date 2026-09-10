@@ -3,18 +3,18 @@
 #set par(justify: true, leading: 0.62em, spacing: 1.1em)
 #set heading(numbering: (..nums) => {
   let n = nums.pos()
-  if nums.len() == 1 { 
-    [Part #numbering("I", n.at(0)) — ] 
-  } else { 
-    numbering("I.1", ..n) 
-  } 
+  if nums.len() == 1 {
+    [Part #numbering("I", n.at(0)) — ]
+  } else {
+    numbering("I.1", ..n)
+  }
 } )
 
 #show heading.where(level: 1): it => block(width: 100%)[
     #v(0.6em)
     #block(
-      text(font: "Latin Modern Sans", size: 15pt, weight: "bold", fill: rgb("#3d2f1f"), 
-        if it.numbering == none {""} 
+      text(font: "Latin Modern Sans", size: 15pt, weight: "bold", fill: rgb("#3d2f1f"),
+        if it.numbering == none {""}
         else { counter(heading).display(it.numbering) } + " " + it.body
       )
     )
@@ -26,7 +26,7 @@
   #v(0.5em)
   #block(
     text(font: "Latin Modern Sans", size: 11.5pt, weight: "bold", fill: rgb("#5c4630"),
-      if it.numbering == none {""} 
+      if it.numbering == none {""}
       else { counter(heading).display(it.numbering) } + " " + it.body
     )
   )
@@ -67,7 +67,7 @@
 ]
 
 #v(0.3em)
-#emph[A pillworm-like, invertebrate, subterranean tool-using species. Built as an alternative to traditional "short human" dwarves — no vision, no spoken language, and a genuinely different way of experiencing the world both underground and on the surface.]
+#emph[A pillworm-like, invertebrate, subterranean tool-using species. Built as an alternative to traditional "short human" dwarves — no vision, no spoken language, and a profoundly different way of experiencing the world both underground and on the surface.]
 
 #part[Preamble][
 
@@ -90,7 +90,7 @@ They are:
 - adapted to a subterranean ecology based on chemosynthesis, fungi, cave livestock, and imported surface material;
 - poorly adapted to the sensory assumptions of the surface world.
 
-The result is a species whose physical alienness is not cosmetic. 
+The result is a species whose physical alienness is not cosmetic.
 Their anatomy changes how they perceive the world, which changes how they communicate, which changes how they organize society, which changes what they value.
 
 == Core Identity
@@ -181,7 +181,7 @@ The head is a chitinous hemisphere with a small mandible, five antennae twice as
 
 The oculi are vestigial photoreceptors capable of distinguishing light from darkness, but incapable of forming images.
 
-The antennae are like a blind person's white stick and index finger merged into one, and much more. They are used for smell, taste, and tactile reception, and will be explained in more details in @sensors. 
+The antennae are like a blind person's white stick and index finger merged into one, and much more. They are used for smell, taste, and tactile reception, and will be explained in more details in @sensors.
 
 They are also capable of  lightweight actuation (move or grab small objects with about the strength and dexterity of a human finger), and are the primary organs through which Pherologue is perceived and produced.
 
@@ -269,7 +269,7 @@ Human facial expressions are as alien to them as pheromone signals are to us.
 
 Their world is instead constructed from mechanical, chemical, tactile, and other non-visual information.
 
-Direct sunlight can overwhelm these primitive photoreceptive structures, producing a condition analogous to glare or sensory overload. 
+Direct sunlight can overwhelm these primitive photoreceptive structures, producing a condition analogous to glare or sensory overload.
 This makes bright surface environments physiologically uncomfortable, which is why Oniscians usually cover their head with a hood when venturing outdoors during daylight.
 
 == Communication
@@ -874,7 +874,7 @@ Spellbooks can be represented as grooved tactile pages.
 
 A Bard can be reflavored as a vibration-based performer whose music is felt rather than heard.
 
-Performances intended for non-Seismologue audiences may require translation or technological/magical mediation. 
+Performances intended for non-Seismologue audiences may require translation or technological/magical mediation.
 However, a GM may rule that a PC unable to perceive the Seismologue performance cannot benefit from its bonus.
 
 == DM Considerations
@@ -939,7 +939,7 @@ Another may become the character's guide to surface customs.
 These relationships should remain meaningful rather than being replaced immediately by a universal magical solution.
 ]
 
-#part(preamble: [_These notes explain the reasoning behind the design. 
+#part(preamble: [_These notes explain the reasoning behind the design.
 They cover the *why* behind some of the choices made, and lists some options that were considered but have been discarded._])[Designer's Notes][
 
 == The Foundational Design Constraint
@@ -1074,7 +1074,7 @@ It got walked back to pure flavor on reflection that these are skinny arthropod 
 
 Mechanically generous "extra limbs" traits are an easy trap in homebrew design.
 
-This is a case where the honest biological read produced the more balanced ruling anyway.
+This is a case where the stricter biological interpretation produced the easier and more balanced ruling.
 
 == Why Oniscian Art Changes So Radically
 
@@ -1121,7 +1121,7 @@ Communication, settlement patterns, writing, art, food, and social structure sho
 
 === Biology and Mechanics Should Remain Distinct
 
-A biological description should not be written in D&D terminology unless the biological concept genuinely is the same thing.
+A biological description should not be written in D&D terminology.
 
 "Tremorsense within 60 ft." is a game rule.
 
@@ -1129,15 +1129,15 @@ A biological description should not be written in D&D terminology unless the bio
 
 The former should translate the latter rather than replace it.
 
-=== Alien Anatomy, Recognizable Personhood
+=== Alien Anatomy, Familiar Personhood
 
-The Oniscians should be genuinely alien in body and sensory experience without becoming incomprehensible as player characters.
+The Oniscians should be alien in body and sensory experience without becoming incomprehensible as player characters.
 
 They should still have recognizable relationships, ambitions, loyalties, flaws, humor, and personal identities.
 
 === No Conventional Dwarf Body
 
-Do not reintroduce the familiar "short stocky human" body merely because the species is culturally descended from the dwarf archetype.
+Do not reintroduce the familiar "short stocky human" body merely because the species is constructed from the dwarf archetype.
 
 The whole point is to preserve the *cultural logic* while rebuilding the biology.
 
@@ -1171,10 +1171,6 @@ Telepathy and other magical solutions can provide practical workarounds.
 
 They should not automatically make Pherologue, Seismologue, or the Oniscian sensory experience culturally irrelevant.
 
-=== Many-Limbed Anatomy Should Remain Honest
-
-The multiple upper limbs are a physical and aesthetic feature, not an excuse for mechanically free extra hands, attacks, weapons, or actions.
-
 === The Party Relationship Matters
 
 The Oniscian should remain meaningfully different from the people around them.
@@ -1193,5 +1189,5 @@ The Oniscians should read as a reinvention of the dwarf archetype because of:
 - grudges;
 - resistance to change;
 
-not because they happen to live underground and have unusual limbs.
+not because they happen to live underground and have short limbs.
 ]
