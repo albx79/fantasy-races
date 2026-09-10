@@ -41,22 +41,6 @@
   columns(balanced: true, 2, body)
 }
 
-// Designer's note callout box
-#let note(body) = block(
-  fill: rgb("#f3ede0"),
-  stroke: (left: 2.2pt + rgb("#9a7b45")),
-  inset: (x: 11pt, y: 8pt),
-  radius: 1.5pt,
-  width: 100%,
-  above: 0.7em,
-  below: 0.9em,
-  [
-    #text(font: "Latin Modern Sans", size: 8pt, weight: "bold", fill: rgb("#9a7b45"), tracking: 1pt)[DESIGNER'S NOTE]
-    #v(3pt)
-    #text(size: 9.3pt, style: "italic", fill: rgb("#3d2f1f"))[#body]
-  ]
-)
-
 // Title block
 #align(center)[
   #text(font: "Latin Modern Sans", size: 22pt, weight: "bold", fill: rgb("#3d2f1f"))[The Oniscians]
