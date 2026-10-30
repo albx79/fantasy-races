@@ -440,12 +440,10 @@ When an Autogen reaches elderhood, its memory organ produces a *mnemospore*.
 
 The mnemospore contains the compressed biological information necessary to
 reconstruct an approximate ancestral neural state in a genetically
-compatible successor.
+identical successor, is sealed inside a tough biomineralized shell.
 
-It is sealed inside a tough biomineralized shell.
-
-The shell is aesthetically analogous to a pearl, but the structure is entirely
-biological and specialized.
+The shell is a smooth sphere, reminiscent of a pearl, about 10 cm in diameter,
+but the internal structure is entirely biological and highly specialized.
 
 The mnemospore is simultaneously:
 
@@ -466,15 +464,11 @@ Autogens reproduce sexually in a conventional, non-destructive manner.
 A couple can have multiple children.
 
 The number of offspring is broadly comparable to human reproductive patterns
-rather than the enormous broods characteristic of many arthropods.
+rather than the enormous broods characteristic of many invertebrates.
 
-Sexual reproduction provides:
-
-- genetic novelty
-- population growth
-- resilience
-- variation
-- a normal family structure
+Sexual reproduction provides genetic novelty and population growth, 
+both of which are fundamental for a resilient, durable society,
+and a normal family structure.
 
 It prevents the species from becoming a closed population of endlessly
 recycled individuals.
@@ -486,26 +480,16 @@ Every elder Autogen has another reproductive possibility: *succession*.
 The elder produces a genetically related successor through a specialized form
 of destructive parthenogenesis.
 
-The process ultimately kills the parent.
+The parent dies through this process, 
+but passes its mnemospore to the offspring.
 
 == The Juvenile Form
 
 The juvenile Autogen is a smaller, weaker, softer version of the adult.
 
 It is already recognizably the same species and retains the fundamental body
-plan:
-
-- barrel-like torso
-- four limbs
-- sensory mast
-- bilateral symmetry
-
-However, its ossicles are:
-
-- smaller
-- thinner
-- less mineralized
-- more flexible
+plan, but its ossicles are smaller, thinner, less mineralised, 
+and thus more flexible.
 
 This allows growth without requiring the organism to continuously enlarge a
 fully hardened adult shell.
@@ -515,11 +499,8 @@ Juveniles cannot reproduce.
 They can nevertheless learn, develop personalities, and accumulate their own
 experiences.
 
-This is essential.
-
-The successor is not simply a dormant adult waiting to receive memories.
-
-It is a genuine developing individual.
+This is essential: a successor is not simply a dormant adult waiting to receive memories.
+It is an independent developing individual.
 
 == Hardening and Awakening
 
