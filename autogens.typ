@@ -93,52 +93,45 @@
 ]
 
 #part[Preamble][
-== Autogens at a Glance
+== The Autogens at a Glance
 
-The Autogens are one of several concept-races created by
-*deconstructing a familiar fantasy archetype*.
+The Autogens are a settings-neutral deconstruction of the dwarf archetype.
 
-They answer the question:
+They retain a recognizable dwarven core—craft, endurance, social duty,
+intergenerational memory, and continuity—while discarding familiar visual and
+cultural shorthand and rebuilding the species from speculative biology.
 
-#quote(block: true)[What makes a dwarf a dwarf if we remove the conventional visual and
-> cultural baggage?]
+They are:
 
-They deliberately abandon many familiar dwarf traits—beards, mining,
-underground habitation, axes, Scottish aesthetics, etc.—while retaining a
-recognizable underlying identity.
+- compact, heavily mineralized beings with a non-humanoid body plan;
+- organisms with a distributed nervous system and a specialized memory organ;
+- successors produced through destructive parthenogenetic succession;
+- inheritors of compressed ancestral memory through the mnemospore;
+- culturally organized around testament, custody, and continuity;
+- designed to feel alien in anatomy but still playable as people.
 
-The species is designed to function as a playable people in:
-
-- traditional fantasy
-- low-magic fantasy
-- settings without magic
-- science fiction
-- realistic or semi-realistic speculative biology
-
-Their defining characteristics should therefore have a *strong biological
-and cultural foundation*, rather than depending on supernatural abilities.
-
-They should be strange enough to feel genuinely alien, but sufficiently
-person-like to support ordinary character-driven play.
+The result is a species whose differences are not cosmetic.
+Their biology changes identity, and identity changes society.
 
 == Core Identity
 
-The Autogens are defined primarily by four concepts:
+The central design question behind the Autogens is:
 
-1. A compact, heavily mineralized body
-2. A distributed nervous system
-3. A life cycle involving destructive parthenogenetic succession
-4. Biological transmission of compressed ancestral memory
+#quote[*What makes a dwarf a dwarf if we remove the conventional visual and
+cultural baggage?*]
+
+The Autogens are therefore not intended to be "dwarves with unusual looks."
+Their body plan, cognition, and life cycle have social consequences for law,
+kinship, inheritance, age, memory, and personhood.
 
 Their central philosophical tension is:
 
 *An Autogen inherits itself, but is not merely a copy of itself.*
 
-A successor inherits the body plan, genetics, some memories, skills, fears,
-and the wishes of its predecessor, but also spends its youth accumulating
-experiences of its own.
+A successor inherits body plan, genetics, selected memories, skills, fears,
+and obligations, but also develops through its own lived experience.
 
-Thus every succession simultaneously represents:
+Each succession therefore contains, at once:
 
 - continuity
 - inheritance
@@ -147,17 +140,37 @@ Thus every succession simultaneously represents:
 - individuality
 - change
 
-== Document Structure
+== Settings Neutrality
 
-The document is divided into three main sections of information, followed by
-the design material:
+The Autogens are designed as a *settings-neutral playable species*.
 
-- *Biology & Culture* describes the Autogens as a species and people,
-  independently of any particular game system or setting.
-- *Storytelling* describes the implications of the species for characters,
-  settings, and play.
-- *Designer Notes* collects the unresolved questions and principles that
-  govern the design.
+Nothing essential to their anatomy, memory inheritance, or social structure
+requires magic.
+
+They do not require:
+
+- supernatural senses;
+- magical reproduction;
+- divine or arcane memory transfer;
+- any specific cosmology.
+
+Magic or advanced technology may still exist in a setting and can provide
+additional ways to interact with the species, but these are optional overlays
+rather than foundations.
+
+== How This Document Is Organized
+
+This document separates three different levels of description.
+
+*Biology & Culture* describes what the Autogens are within the fictional
+world. It treats anatomy, senses, reproduction, memory, and society as an
+encyclopedic subject and avoids game mechanics and narrative advice.
+
+*Storytelling* describes what those characteristics mean for playable
+characters, campaigns, and table play.
+
+*Designer Notes* explain unresolved questions and the principles used to
+stabilize the concept as the design evolves.
 ]
 
 #part[Biology & Culture][
@@ -186,23 +199,10 @@ The name emphasizes the species' central philosophical idea:
 However, the successor is not a simple clone. It inherits the predecessor
 while developing independently and being shaped by its own experiences.
 
-=== Why not "dwarf"?
-
-"Dwarf" is deliberately retained only as the *archetype being deconstructed*,
-not as the final species name.
-
-There will be multiple races derived from the dwarf archetype, each with its
-own identity. Calling all of them dwarves would defeat the purpose of the
-project.
-
 === The mnemospore
 
 A *mnemospore* is the biological memory seed produced by an elderly Autogen.
-
-The word combines the Greek-derived concepts of:
-
-- *mnēmē* — memory
-- *spore / sporos* — seed
+The word combines the Greek-derived concepts of *mnēmē* (memory) + *spore / sporos* (seed).
 
 The term was chosen because the memory archive is literally a *seed of
 ancestral memory* planted into the next generation.
@@ -213,24 +213,10 @@ It is a biological information-bearing structure containing a lossy,
 compressed representation of the elder's significant memories and learned
 neural patterns.
 
-The exact molecular mechanism is deliberately unspecified. The setting
-requires a plausible biological principle, not a complete treatise on
-molecular neuroscience.
-
-=== Mnemosporan
-
-A *mnemosporan* is an Autogen currently carrying a mnemospore.
-
-This normally applies to:
-
-- an *autogenic youth*, who has inherited a mnemospore but has not opened it
-- an *elderly Autogen*, who has produced and sealed their own mnemospore and
-  is awaiting succession
-
-An ordinary mature adult between these stages is *not* a mnemosporan.
-
-The terminology therefore describes a particular biological state rather than
-an ethnicity or caste.
+While no such memory storage and retrieval system exists in nature, 
+the basis for transmitted knowledge exist (think of shepeherd dogs instinctively knowing
+how to herd sheep), and the brain is but a neural network, 
+so that a biological ability to store and restore its state requires but a small leap of imagination.
 
 == Body Plan
 
@@ -242,13 +228,10 @@ surfaces.
 However, it is not a modified human.
 
 Its anatomy is based primarily on a *living ossicular skeleton*, inspired by
-the biomineralized internal structures of echinoderms without making the
-Autogens echinoderms.
+the biomineralized internal structures of echinoderms.
 
-The adult silhouette is deliberately reminiscent of a small living *rock
-golem*.
-
-This is an aesthetic resemblance only.
+The adult silhouette is reminiscent of a small living *rock golem*.
+However, this resemblance is limited to aesthetic.
 
 Autogens are living organisms composed of:
 
@@ -260,19 +243,15 @@ Autogens are living organisms composed of:
 - ossicles
 - organs
 
-They are not made of stone.
+They are not actually made of stone! It's their heavilty mineralised skin that gives the impression.
 
 == The Barrel Torso
 
 The central body is a compact, roughly barrel-shaped trunk.
 
-The barrel is unusually rigid.
-
-Its rigidity results from a dense internal lattice of living, biomineralized
-ossicles.
-
-The torso functions as a major structural unit rather than as a highly
-flexible human-style spine-and-ribcage assembly.
+The trunk is rigid, due to a dense internal lattice of living, biomineralized
+ossicles, and it functions as a major structural unit (unlike the highly
+flexible human-style spine-and-ribcage assembly).
 
 Consequences include:
 
@@ -283,27 +262,18 @@ Consequences include:
 - substantial resistance to blunt trauma
 - a squat, solid silhouette
 
-An Autogen cannot move its body like a human gymnast.
-
-This is not an incidental limitation: it is a direct consequence of the
-anatomy and contributes to the species' physical identity.
-
-An Autogen may have difficulty scratching the middle of its own back. This
-can have mundane social consequences, including reliance on other Autogens or
-tools for grooming.
+An Autogen may have difficulty scratching the middle of its own back,
+and would normally use a tool or ask a friend for help with grooming.
 
 == Ossicles and Mineralized Skin
 
 The Autogen's body contains extensive *biomineralized ossicles*.
 
-These are living structural tissues rather than inert rocks.
-
-They form a composite material analogous in broad principle to the
+These are living structural tissues formed by a composite material analogous to the
 fracture-resistant ossicles of echinoderms:
 
 - mineral components provide hardness and compressive strength
-- organic components provide toughness and resistance to catastrophic
-  fracture
+- organic components provide toughness and resistance to fracture
 - flexible tissues connect individual structural elements
 - living tissues maintain and repair the mineralized structures
 
@@ -323,14 +293,10 @@ At close range, however, its living nature is obvious:
 - vocal structures vibrate
 - blood and living tissue exist beneath the mineralized exterior
 
-The guiding aesthetic is:
+The resulting aesthetic is that of *a living organism beneath a layer of
+living biological armor*.
 
-> *The Autogen does not wear armor. The Autogen is alive beneath a layer of
-> living biological armor.*
-
-== Joints
-
-The Autogens do not require a human-style skeleton.
+=== Joints
 
 Individual ossicles and groups of ossicles can articulate against one another
 through flexible living tissue.
@@ -338,15 +304,6 @@ through flexible living tissue.
 Major joints are therefore better understood as *regions of articulation and
 reduced ossicle density* rather than exact analogues of human ball-and-socket
 or hinge joints.
-
-A limb contains:
-
-- large structural ossicles
-- smaller supporting ossicles
-- muscles
-- connective tissue
-- blood vessels
-- nerves
 
 Muscles attach to groups of ossicles and move them relative to one another.
 
@@ -357,99 +314,35 @@ different skeletal architecture.
 
 The two legs attach low on the barrel, somewhat toward its sides.
 
-They are short, thick, and powerful.
+They are short, thick, and powerful, primarily designed for stability and weight bearing, not for agility or acrobatics.
 
-The legs are primarily designed for:
+They terminate in broad, *elephant-like feet* that provide a large support area, 
+helping compensate for the difficulty of balancing a rigid barrel-shaped body on two legs.
 
-- stability
-- weight bearing
-- pushing
-- carrying
-- sustained walking
-
-They are not optimized for agility or acrobatics.
-
-The lower limbs terminate in broad, *elephant-like feet*.
-
-The feet provide a large support area, helping compensate for the difficulty
-of balancing a rigid barrel-shaped body on two legs.
-
-The gait is broadly human-like rather than bird-like.
-
-This was deliberately chosen because the Autogens must remain recognizably
-bipedal and playable, while a bird-like gait would conflict with their
-intended visual identity.
-
-Their walking therefore uses alternating legs in a familiar bipedal gait,
-but with:
-
-- shorter strides
-- a relatively wide stance
-- reduced pelvic rotation
-- little spinal movement
-- substantial mechanical stability
-
-The result should look more like a *solid living statue walking with purpose*
-than an agile humanoid.
+This results in a look like a *solid living statue walking with purpose*.
 
 == Manipulatory Limbs
 
-The two arms attach to the sides of the barrel, relatively high on the body.
-
-They are substantially more mobile than the torso.
+The two arms attach to the sides of the barrel, relatively high on the body, and end in prehensile hands.
 
 The shoulders use deep articulating structures embedded in the ossicular
-framework.
+framework, and the resulting limbs are hightly mobile.
 
-The arms should have enough mobility for normal character interaction:
-
-- holding weapons
-- using tools
-- opening doors
-- writing
-- manipulating objects
-- operating machinery
-- gesturing
-
-The hands remain relatively familiar in function, because playable characters
-need to interact with their environments.
-
-The contrast is intentional:
-
-> *The body is a tank; the hands are precision instruments.*
+The Autogens are capable tool users, capable of both strength and precision.
 
 == The Sensory Mast
 
-The Autogen does not possess a humanoid head.
+The Autogens don't possess a humanoid head; 
+instead, a *sensory mast* rises from the top of the barrel.
 
-Instead, a *sensory mast* rises from the top of the barrel.
+The mast contains the principal external sensory and communication organs, 
+but it does not contain the brain.
 
-The mast contains the principal external sensory and communication organs.
+Its organs include eyes, ears, olfactory tendrils, and a sound-producing structure 
+independent of their respiratory system (see @vocalization). 
 
-It is not primarily a container for the brain.
-
-The sensory mast may contain:
-
-- visual organs
-- olfactory organs
-- auditory organs
-- other environmental sensors
-- sound-producing structures
-
-The structures can move independently or in coordinated patterns.
-
-These movements provide much of the Autogen's equivalent of facial expression.
-
-An Autogen therefore does not smile, frown, or raise an eyebrow.
-
-Instead, emotional states may be expressed through:
-
-- orientation of the sensory mast
-- position of sensory organs
-- posture
-- arm gestures
-- changes in organ coloration or reflectivity
-- movements of sound-producing structures
+The structures can move independently or in coordinated patterns, 
+that provide much of the Autogen's equivalent of facial expression.
 
 To humans these may initially appear strange or ambiguous, but Autogens
 possess a sophisticated native body language based on them.
@@ -459,67 +352,31 @@ possess a sophisticated native body language based on them.
 The upper portion of the barrel contains *bellows-like respiratory organs*.
 
 A respiratory opening is located toward the top of the torso, near the base of
-the sensory mast.
+the sensory mast. 
+Air passes through an orifice located just under the sensory mast, 
+where it flows by the olfactory tendrils.
 
-Air is actively pumped through the respiratory system by muscular bellows
-rather than by expansion of a flexible ribcage.
-
-The torso can therefore remain largely rigid while the Autogen breathes.
-
-The external signs of breathing may be subtle.
-
-== Olfaction
-
-The olfactory organs are located strategically on the sensory mast near the
-respiratory airflow.
-
-Incoming air passes near or through the olfactory structures, allowing the
-Autogen to sample its chemical composition.
-
-This provides a simple biological explanation for olfaction without
-requiring a humanoid nose.
-
-It also reinforces the sensory mast as a functional antenna rather than a
-disguised head.
+Because the torso is so rigid, the external signs of breathing are very subtle.
 
 == Feeding and Digestion
 
 A large *feeding aperture* is located on the torso, approximately in its
 central/lower region.
 
-It is not a conventional humanoid mouth.
+Five sharp teeth form a star-like structure that crushes and chewes food,
+delivering it to a traditional digestive apparatus.
 
-Food is introduced directly into the aperture.
+== Vocalization <vocalization>
 
-The digestive tract can otherwise remain broadly conventional:
+The Autogen speaks using an *external sound-producing organ on the sensory
+mast*. It's separate from the feeding aperture and the breathing orifice.
 
-> feeding aperture → esophagus → stomach → intestine → rectum → anus
+This is completely unlike a larynx or a mouth.
+It consists of specialized membranes and resonating structures, 
+resembling the file-and-scraper mechanism used by crickets.
 
-The anus is located toward the lower/rear region of the body rather than
-adopting the echinoderm arrangement in which the digestive opening would be
-positioned in an unusual place.
-
-No exotic digestive system is required.
-
-The barrel-shaped torso provides ample room for the digestive organs.
-
-This is an example of deliberate biological restraint: not every feature
-needs to be alien simply because the species as a whole is alien.
-
-== Vocalization
-
-The Autogen speaks using *external sound-producing organs on the sensory
-mast*.
-
-These are not necessarily a larynx or a mouth.
-
-They may consist of specialized membranes, resonating structures, and
-controlled airflow.
-
-The resulting voice is biologically generated and should sound like a real
-living organism rather than a magical or mechanical effect.
-
-The sound-producing organs are separate from the feeding aperture.
+The resulting voice sounds weird to human ears, 
+but has enough modulation to be able to approximate human speech.
 
 == The Distributed Brain
 
@@ -545,10 +402,10 @@ The sensory lobe processes and integrates information from the mast.
 
 The five regions collectively constitute one mind.
 
-The distributed architecture is not intended to make Autogens effectively
+The distributed architecture doesn't make Autogens
 immortal or allow them to casually survive catastrophic brain injury.
 Damage to a lobe can cause severe functional impairment; damage to the neural
-connections can be catastrophic.
+connections can be fatal.
 
 == The Memory Organ
 
@@ -559,40 +416,22 @@ Its purpose is to convert significant long-term neural information into
 biological information-bearing material.
 
 During an Autogen's life, specialized *archiver cells* interact with the
-nervous system.
+nervous system, preserving repeated activities, deeply practiced skills,
+and emotionally significant experiences.
 
-They preferentially preserve:
-
-- emotionally significant experiences
-- repeated activities
-- deeply practiced skills
-- strong fears
-- important habits
-- impactful events
-
-The process is deliberately *lossy*.
-
-The memory archive is not a perfect recording of the individual's brain.
-
-Consequently:
-
-- trivial experiences disappear
-- details are compressed
-- memories become generalized
-- old memories lose specificity
-- multiple ancient lives gradually blend together
+The process is *imperfect*.
+The memory archive is not a digital recording of the individual's brain.
+Trivial experiences disappear, details are compressed, and memories become generalized.
+Old memories lose specificity, and multiple ancient lives gradually blend together.
 
 A very old Autogen cannot necessarily distinguish which ancestor experienced
 a particular event.
 
-It may instead possess a generalized inherited memory such as:
+It may instead possess a generalized inherited memory such as "this place is dangerous", 
+rather than a precise recollection of which ancestor suffered a particularly
+bad experience.
 
-> *"Fire is dangerous."*
-
-rather than a precise recollection of which ancestor suffered a particular
-burn.
-
-This lossiness is essential to prevent the species from becoming effectively
+This lossiness prevents the species from becoming
 immortal repositories of perfect historical records.
 
 == The Mnemospore
@@ -936,7 +775,6 @@ while all agreeing on its practical importance.
 | *Autogenesis* | The biological process of producing a successor |
 | *Succession* | The transition from elder to successor |
 | *Mnemospore* | The mineral-encased biological memory seed |
-| *Mnemosporan* | An Autogen currently carrying a mnemospore |
 | *Elder* | An Autogen approaching or undergoing succession |
 | *Successor* | The juvenile/adult produced by an elder's destructive parthenogenesis |
 | *Testament* | The elder's instructions and wishes for their successor's upbringing |
@@ -1250,8 +1088,6 @@ enough that history remains history.
 *Plural:* Autogens
 
 *Memory seed:* mnemospore
-
-*Bearer of a mnemospore:* mnemosporan
 
 These terms are considered *locked in* unless deliberately revisited later.
 ]
